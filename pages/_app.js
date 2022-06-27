@@ -1,7 +1,22 @@
-import '../styles/globals.css'
+import Layout from '../components/Layout';
+import '../styles/globals.css';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+// 전역 컨포넌트
+export default function App({ Component, pageProps }) {
+  return (
+    <Layout>
+      <Component {...pageProps} />
+      {/* <span>hello</span> */}
+    </Layout>
+  );
 }
 
-export default MyApp
+/* 
+<style jsx global>{`
+a {
+  color: #fff;
+}
+h1 {
+  color: red;
+}
+`}</style> */
