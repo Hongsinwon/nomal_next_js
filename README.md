@@ -3,8 +3,18 @@
 
 </br>
 
+<b> ✅ next Js 생성 </b> 
+
+
  ```javascript
-    npx create-next-app 생성할 파일명
+    npx create-next-app 
+ ```
+
+<b> ✅ next Js +  typescript 생성 </b> 
+
+
+ ```javascript
+    npx create-next-app --typescript
  ```
 
 </br>
@@ -19,7 +29,7 @@ https://www.youtube.com/watch?v=t9ccIykXTCM
 - 라이브러리
 
 1. 사용자(개발자)가 파일 이름이나 구조 등을 정하고, 모든 결정을 내립니다.
-2. 개발자가 어떤 프로그램을 가져다 쓰는것 (Ex React: 렌더링할때 ReactDOM.render()를 불러와서 사용한다.)
+2. 개발자가 어떤 프로그램을 가져다 씁니다 (Ex React: 렌더링할때 ReactDOM.render()를 불러와서 사용한다.)
 
 - 프레임워크
 
@@ -32,7 +42,7 @@ https://www.youtube.com/watch?v=t9ccIykXTCM
 
 1.  앱에 있는 페이지들이 미리 렌더링됩니다.
 
-1.  pages 폴더
+2.  pages 폴더
     pages 폴더 안에 있는 파일명에 따라 route가 결정된다.
 
 - pages/about.js 생성  
