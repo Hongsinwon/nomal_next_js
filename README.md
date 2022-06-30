@@ -1,9 +1,13 @@
 📆 2022.06.27
 # NextJs Introduction
 
+</br>
+
  ```javascript
     npx create-next-app 생성할 파일명
  ```
+
+</br>
 
 ## 라이브러리 vs 프레임워크
 https://www.youtube.com/watch?v=t9ccIykXTCM
