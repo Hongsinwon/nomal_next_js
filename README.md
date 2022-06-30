@@ -1,7 +1,7 @@
 📆 2022.06.27
-#NextJs Introduction
+# NextJs Introduction
 
-##라이브러리 vs 프레임워크
+## 라이브러리 vs 프레임워크
 https://www.youtube.com/watch?v=t9ccIykXTCM
 
 > 라이브러리와 프레임워크의 주요 차이점은 "Inversion of Control"(통제의 역전)입니다.
